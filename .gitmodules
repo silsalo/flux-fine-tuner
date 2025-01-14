@@ -1,3 +1,6 @@
 [submodule "ai-toolkit"]
 	path = ai-toolkit
 	url = https://github.com/silsalo/ai-toolkit.git
+[submodule "cog-flux"]
+	path = cog-flux
+	url = https://github.com/silsalo/cog-flux.git
