@@ -171,3 +171,9 @@ cython_debug/
 .pypirc
 
 FLUX.1-dev/
+model-cache/
+falcon-cache/
+output/
+input_images/
+safety-cache/
+ai-toolkit/repositories/ipadapter/ip_adapter/__pycache__/
