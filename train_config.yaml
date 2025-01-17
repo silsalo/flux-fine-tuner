@@ -1,0 +1,14 @@
+input_images: "data.zip"
+trigger_word: "N4ILL32ONG"
+steps: 1000
+learning_rate: 0.0004
+batch_size: 1
+resolution: "512,768,1024"
+lora_rank: 16
+caption_dropout_rate: 0.05
+optimizer: "adamw8bit"
+cache_latents_to_disk: false 
+wandb_project: "nails"
+wandb_run: "test first run"
+wandb_entity: "subuday"
+wandb_save_interval: 0
